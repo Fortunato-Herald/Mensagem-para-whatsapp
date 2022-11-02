@@ -1,4 +1,4 @@
-#  pip install speedtest-cli
+#  pip install pywhatkit
 
 import pywhatkit as whatapp
 
